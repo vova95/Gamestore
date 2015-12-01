@@ -1,0 +1,17 @@
+﻿body {
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.comments {
+    list-style: none;
+}
+.login {
+    font-weight: bold;
+}
+li {
+    text-align: left;
+    padding-top: 15px;
+}
+

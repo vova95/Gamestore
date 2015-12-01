@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Store.master.cs" Inherits="GameStore.Pages.Store" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>GameStore</title>
+    <link rel="stylesheet" href="/Content/Styles.css" />
+</head>
+<body>
+    <div class="store-container">
+        <form id="form1" runat="server">
+            <div>
+                <div id="header">
+                    <GS:CartSummary runat="server" />
+                    <div class="title">GameStore - магазин компьютерных игр</div>
+                    <a href="comments">Отзывы</a>
+                    <a href="authentication">Войти</a>
+                </div>
+                <div id="categories">
+                    <GS:CategoryLinks ID="CategoryLinks1" runat="server" />
+                </div>
+                <div>
+                    <asp:ContentPlaceHolder ID="bodyContent" runat="server" />
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

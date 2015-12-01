@@ -1,0 +1,34 @@
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\GameStore.dll
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\GameStore.pdb
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\EntityFramework.dll
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\EntityFramework.SqlServer.dll
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\EntityFramework.xml
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\bin\EntityFramework.SqlServer.xml
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\obj\Debug\GameStore.csprojResolveAssemblyReference.cache
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\obj\Debug\GameStore.dll
+c:\users\zuben\documents\visual studio 2012\Projects\GameStore\GameStore\obj\Debug\GameStore.pdb
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\Antlr3.Runtime.dll
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\Newtonsoft.Json.dll
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\System.Web.Optimization.dll
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\WebGrease.dll
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\Antlr3.Runtime.pdb
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\Newtonsoft.Json.xml
+C:\Users\zuben\Documents\Visual Studio 2012\Projects\GameStore\GameStore\bin\System.Web.Optimization.xml
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\GameStore.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\GameStore.pdb
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\Antlr3.Runtime.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\EntityFramework.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\EntityFramework.SqlServer.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\Newtonsoft.Json.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\System.Web.Optimization.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\WebGrease.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\Antlr3.Runtime.pdb
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\EntityFramework.xml
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\EntityFramework.SqlServer.xml
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\Newtonsoft.Json.xml
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\bin\System.Web.Optimization.xml
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\obj\Debug\GameStore.csprojResolveAssemblyReference.cache
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\obj\Debug\GameStore.dll
+C:\Users\zuben\Documents\GitHub\Gamestore\GameStore\obj\Debug\GameStore.pdb
